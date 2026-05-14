@@ -1,4 +1,4 @@
-# How to engage with Cameraderie Cards
+# How to engage with Cameraderie Cards™
 
 This repository is a **public landing page and feedback hub** for the
 Cameraderie Cards web app at [cameraderiecards.com](https://cameraderiecards.com).

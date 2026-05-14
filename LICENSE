@@ -1,6 +1,14 @@
-Cameraderie Cards — Proprietary License
+Cameraderie Cards™ — Proprietary License
 
 Copyright (c) 2026 Roger Newman-Norlund. All rights reserved.
+
+"Cameraderie Cards" is a common-law trademark of Roger Newman-Norlund,
+claimed and in active use in commerce in connection with an analytics
+web application for collectible card games. The mark is asserted under
+common-law trademark rights in all jurisdictions where the Application
+is accessible. Federal registration is reserved at the proprietor's
+discretion. The ™ symbol indicates a claimed mark and is used in
+accordance with applicable trademark law.
 
 This repository ("the Repository") is a public landing page and
 feedback hub for the Cameraderie Cards web application
@@ -40,11 +48,44 @@ YOU MAY NOT, WITHOUT PRIOR WRITTEN PERMISSION:
 
   - reproduce, redistribute, mirror, or rehost the content of this
     Repository in whole or in part
-  - use the name "Cameraderie Cards" or its branding for any other
-    product or service
+  - use the name "Cameraderie Cards", the ™ mark, or any associated
+    branding (including the gold-on-dark visual identity, card-pack
+    motif, dragon mascot, "Guard the Hoard" tagline, or dashboard
+    layout) for any other product, service, or marketing material
   - use the screenshots in this Repository for any commercial purpose
     other than reviewing or discussing the Application
-  - claim affiliation with or endorsement by Cameraderie Cards
+  - claim affiliation with or endorsement by Cameraderie Cards or its
+    proprietor
+  - reverse-engineer, decompile, disassemble, or otherwise attempt to
+    derive the source code, algorithms, data models, or trade secrets
+    of the Application
+  - use the Application or this Repository to train, fine-tune, or
+    benchmark any machine-learning model, large language model, or
+    other automated system without prior written permission
+
+INTELLECTUAL PROPERTY ENFORCEMENT:
+
+Unauthorized use of the Cameraderie Cards mark, branding, dashboard
+design, or proprietary content will be treated as infringement and
+may be pursued through all available legal remedies, including but
+not limited to:
+
+  - common-law trademark infringement and unfair-competition claims
+  - Lanham Act § 43(a) false-designation-of-origin claims (15 U.S.C.
+    § 1125(a))
+  - trade-secret misappropriation claims under the federal Defend
+    Trade Secrets Act (18 U.S.C. § 1836) and applicable state
+    trade-secret statutes
+  - copyright infringement claims under 17 U.S.C. for unauthorized
+    reproduction of written or visual content from this Repository or
+    the Application
+  - state-law unjust-enrichment and tortious-interference claims
+    where applicable
+
+The proprietor expressly reserves the right to seek injunctive relief,
+monetary damages (including disgorgement of profits and statutory
+damages where available), attorneys' fees and costs, and any other
+remedies available at law or in equity.
 
 THIRD-PARTY MARKS AND CONTENT:
 

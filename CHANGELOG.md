@@ -28,6 +28,8 @@ _Things in flight but not yet live. Empty here means everything's deployed._
 - 💡 **Hint in the dragon settings popup** showing the Ctrl+F binding.
 - 📖 **This public companion repo** at
   [github.com/rnorlund/cameraderie-cards](https://github.com/rnorlund/cameraderie-cards).
+- ™ **Trademark mark established** — "Cameraderie Cards™" is now in
+  use under common-law trademark in connection with the application.
 
 ### Changed
 - 🪙 The "Guard the Hoard" / 🔒 "Cage the Beast" button now toggles

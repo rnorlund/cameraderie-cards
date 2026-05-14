@@ -1,4 +1,4 @@
-# 🎴 Cameraderie Cards
+# 🎴 Cameraderie Cards™
 
 **Your Magic: The Gathering collection — treated like a portfolio.**
 
@@ -7,7 +7,7 @@ financial portfolio gets, but for cardboard.
 
 [**🚀 Open the app → cameraderiecards.com**](https://cameraderiecards.com)
 
-![The Cameraderie Cards dashboard](docs/screenshots/dashboard_overview.png)
+![The Cameraderie Cards dashboard](docs/screenshots/dashboard.png)
 
 ---
 
@@ -69,19 +69,50 @@ property of Wizards of the Coast.
 
 ---
 
-## License
+## License and intellectual property
 
-© 2026 Roger Newman-Norlund. All rights reserved. See
-[LICENSE](LICENSE) for the full notice.
+© 2026 Roger Newman-Norlund. All rights reserved. See [LICENSE](LICENSE)
+for the full notice.
 
-The Cameraderie Cards name, branding, screenshots, written content in
-this repository, and the application itself are proprietary. They are
-not open-source and may not be reused, redistributed, or mirrored
-without written permission.
+**Cameraderie Cards™** is a common-law trademark of Roger Newman-Norlund,
+claimed and in active use in commerce since May 2026 in connection with
+the analytics web application at cameraderiecards.com. The mark, the
+project name, the visual identity (gold-on-dark theme, card-pack motif,
+dragon mascot, "Guard the Hoard" tagline, etc.), the dashboard layout
+and the underlying user-experience design are proprietary.
+
+The application source code is **not publicly distributed**. The
+analytics methods, pack-cracking simulation algorithms, expected-value
+computations, set-completion heuristics, and other internal logic that
+power cameraderiecards.com are trade secrets and remain the exclusive
+property of Roger Newman-Norlund. Reverse-engineering, decompiling, or
+attempting to reconstruct the application's internals is prohibited.
+
+This repository — README, screenshots, documentation, issue templates,
+and all written content — is proprietary and may not be reused,
+redistributed, mirrored, or rehosted without prior written permission.
+
+Unauthorized use of the "Cameraderie Cards" name, logo, dashboard
+design, or product identity in connection with any competing or
+derivative product, service, or marketing material will be treated as
+infringement and may be pursued through all available legal remedies,
+including but not limited to:
+
+- common-law trademark infringement and unfair-competition claims
+- Lanham Act §43(a) false-designation-of-origin claims
+- trade-secret misappropriation claims under the federal Defend Trade
+  Secrets Act (18 U.S.C. § 1836) and applicable state law
+- copyright infringement claims for unauthorized reproduction of any
+  written or visual content from this repository or the live
+  application
+
+Inquiries about licensing, partnerships, or commercial use should be
+directed to the project author via the GitHub profile linked below.
 
 This repository exists as a public landing page and feedback hub for a
 commercial product. Issues, feature requests, and Discussions are
-welcome and encouraged.
+welcome and encouraged — and they remain the project author's
+intellectual property under the terms of [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
 
