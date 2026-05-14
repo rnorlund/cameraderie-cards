@@ -1,0 +1,70 @@
+Cameraderie Cards — Proprietary License
+
+Copyright (c) 2026 Roger Newman-Norlund. All rights reserved.
+
+This repository ("the Repository") is a public landing page and
+feedback hub for the Cameraderie Cards web application
+("the Application") hosted at https://cameraderiecards.com.
+
+The Repository contains marketing materials, screenshots, written
+documentation, issue templates, and the project name and branding for
+the Application. It does NOT contain the source code of the
+Application — the source code is maintained privately and is not
+distributed under this or any other public license.
+
+All content in this Repository, including but not limited to:
+
+  - the name "Cameraderie Cards" and any associated logos or branding
+  - the written content of README.md, CONTRIBUTING.md, CHANGELOG.md,
+    and any other markdown documentation
+  - screenshots of the Application's user interface
+  - any concept art, copy, or marketing materials
+
+is the exclusive property of Roger Newman-Norlund and is provided here
+solely for the purpose of describing, promoting, and supporting the
+commercial product hosted at https://cameraderiecards.com.
+
+YOU MAY:
+
+  - read, link to, and reference this Repository for the purpose of
+    discussing the Application
+  - open Issues to report bugs or request features
+  - participate in Discussions
+  - submit pull requests that fix typos, broken links, or update
+    screenshots in this Repository
+  - share screenshots of YOUR OWN collection as shown in the
+    Application (the dashboard is yours — your collection data is
+    yours)
+
+YOU MAY NOT, WITHOUT PRIOR WRITTEN PERMISSION:
+
+  - reproduce, redistribute, mirror, or rehost the content of this
+    Repository in whole or in part
+  - use the name "Cameraderie Cards" or its branding for any other
+    product or service
+  - use the screenshots in this Repository for any commercial purpose
+    other than reviewing or discussing the Application
+  - claim affiliation with or endorsement by Cameraderie Cards
+
+THIRD-PARTY MARKS AND CONTENT:
+
+Magic: The Gathering, MTG, the planeswalker symbol, mana symbols, set
+symbols, and all related names, logos, and card images visible in
+screenshots are the property of Wizards of the Coast LLC. Cameraderie
+Cards is an independent third-party tool and is not affiliated with,
+endorsed by, or sponsored by Wizards of the Coast.
+
+NO WARRANTY:
+
+THE REPOSITORY AND APPLICATION ARE PROVIDED "AS IS", WITHOUT WARRANTY
+OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE REPOSITORY OR THE APPLICATION OR THE USE OR OTHER DEALINGS IN
+THE REPOSITORY OR THE APPLICATION.
+
+For licensing inquiries, partnership requests, or other commercial
+matters, contact the project author via the GitHub profile at
+https://github.com/rnorlund.

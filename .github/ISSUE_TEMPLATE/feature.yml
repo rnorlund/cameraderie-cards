@@ -1,0 +1,54 @@
+name: ✨ Feature request
+description: Suggest something new for Cameraderie Cards.
+title: "[Feature]: "
+labels: ["feature-request", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Got an idea for a new dashboard card, a new pricing source, a
+        new setting, or anything else? Tell us about it.
+
+        A lot of the roadmap comes from this tab — don't be shy.
+  - type: textarea
+    id: what
+    attributes:
+      label: What do you want the app to do?
+      description: A clear, concise description of the feature.
+      placeholder: e.g. "Add a 'Cards in My Decks' card that shows which singles in my collection are currently slotted into a deck I've built."
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why? What problem does it solve?
+      description: The "why" is more important than the "what" — it tells us whether the solution you proposed is actually the right one.
+      placeholder: e.g. "I keep accidentally listing cards for sale that I'm actively running in my Commander deck, because I can't see at a glance which singles are in active use."
+    validations:
+      required: true
+  - type: textarea
+    id: where
+    attributes:
+      label: Where in the app would this live?
+      description: A new dashboard card? A new setting? A modal? A new tab?
+      placeholder: e.g. "A new dashboard card, ideally next to the Watchlist card."
+    validations:
+      required: false
+  - type: textarea
+    id: mockup
+    attributes:
+      label: Mockup or sketch (optional)
+      description: Drag-and-drop an image, or describe in words how it would look.
+    validations:
+      required: false
+  - type: dropdown
+    id: tier
+    attributes:
+      label: Your tier
+      options:
+        - Free
+        - Pro Monthly
+        - Lifetime
+        - Not signed in
+    validations:
+      required: false

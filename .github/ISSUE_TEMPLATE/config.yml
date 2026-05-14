@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 General discussion
+    url: https://github.com/rnorlund/cameraderie-cards/discussions
+    about: For open-ended questions, MTG chat, or anything that doesn't need a fix or a feature.
+  - name: 🚀 Try the app
+    url: https://cameraderiecards.com
+    about: Open the live app at cameraderiecards.com.
