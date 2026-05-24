@@ -14,6 +14,65 @@ _Things in flight but not yet live. Empty here means everything's deployed._
 
 ---
 
+## 2026-05-23 — Museum positioning + new art cards
+
+### Added
+- 🏛 **Champions' Podium** — a new art card. Your top five cards
+  take the stage on carved-stone pedestals at podium heights
+  (4-2-1-3-5 left to right), with gold trim and a crown badge on
+  #1. Click any card to enter **exhibit mode** with an expanded
+  curator's plaque (rank, share of collection, copies, acquisition
+  date). The **▶ Begin ceremony** button auto-cycles through all
+  five with a confetti burst.
+- 🎴 **Card-of-Cards Mosaic** polish — settings panel closes
+  cleanly when you click on the mosaic, the reveal image now fills
+  the entire stage on guess/reveal, and the panel no longer
+  persists across page loads.
+- 👑 **Crown Jewel** completely rebuilt. Spinning faceted gem
+  behind the card, sweeping conic light rays, drifting sparkles,
+  floating-card animation, velvet vignette. Reads as a treasure on
+  display instead of a list item.
+- 📜 **Flavor Text Roulette** completely rebuilt as an *aged
+  manuscript*: parchment background, illuminated card portrait in
+  the corner, typewriter quill effect that reveals the quote
+  character-by-character, and a red wax **CC** seal.
+
+### Changed
+- 🏛 **Museum-first default dashboard.** New users (and anyone who
+  hits "↻ Reset Overview to default") now land on a 7-card canvas
+  led by the art cards — Champions' Podium, Card-of-Cards Mosaic,
+  Fibonacci Spiral, Woven Quilt — alongside the showcase widget,
+  Story of You, and Wish Box. The data-heavy cards (Value by
+  Category, Top 10, Badges, Value Horizon) remain available via
+  **+ Add card** but no longer dominate the first impression.
+- 📖 **Mission re-anchored as "a museum for your MTG
+  collection."** Splash bullets, the "What is this?" panel, the
+  Mission modal, and the meta + OG tags were all rewritten to lead
+  with the museum/showcase positioning. CC now explicitly
+  positions itself *alongside* Manabox / Moxfield / price
+  aggregators instead of competing with them — "the room you take
+  your finished collection into to show it off."
+- 🏷 Login splash tagline: **"Your Magic collection, on display in
+  a hundred ways."**
+- 🌀 Landing carousel caption corrected: "Fibonacci spirals made
+  of your cards" (was "Golden spirals of your top cards").
+
+### Removed
+- ⏳ **Time Travel showcase mode retired.** The 12 % CAGR-back
+  projection chart didn't fit the museum positioning. Anyone whose
+  saved widget was Time Travel auto-recovers to Crown Jewel.
+- 📈 **Top Movers showcase mode retired.** Same reason — too
+  trading-dashboard, not enough museum.
+
+### Fixed
+- The drawer's **↻ Reset Overview to default** button now actually
+  resets to the current default (had a stale hardcoded layout that
+  diverged from what the server thought was the default).
+- Champions' Podium ceremony now leads with **#1** (was building
+  bottom-up, which felt anticlimactic — the champion is the lede).
+
+---
+
 ## 2026-05-13 — Dragon polish + landing page
 
 ### Added
