@@ -56,6 +56,10 @@ _Things in flight but not yet live. Empty here means everything's deployed._
   a hundred ways."**
 - 🌀 Landing carousel caption corrected: "Fibonacci spirals made
   of your cards" (was "Golden spirals of your top cards").
+- 🟢 **Concurrent-viewer pill** now reflects a community-presence
+  baseline (drifts realistically with time-of-day, range 18–200)
+  plus the actual count of logged-in viewers. So the topbar always
+  feels alive even at quiet hours, and real activity adds on top.
 
 ### Removed
 - ⏳ **Time Travel showcase mode retired.** The 12 % CAGR-back
