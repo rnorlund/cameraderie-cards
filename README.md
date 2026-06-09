@@ -49,6 +49,10 @@ is proprietary and lives in a private repository.
   template.
 - **💬 Want to chat about MTG, collecting, or the app?** → head to the
   [Discussions](../../discussions) tab.
+- **🃏 Want to build or improve a dashboard card?** → the
+  [`webcards/`](webcards/) directory is **open source (MIT)**. Read the
+  [Card Geode](webcards/cards/cc_card_geode.py), remix it, or propose a new
+  card via PR. See [`webcards/README.md`](webcards/README.md).
 
 We read every issue. The app evolves week-by-week and a lot of the
 roadmap comes straight from this tab.

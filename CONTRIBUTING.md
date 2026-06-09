@@ -59,11 +59,17 @@ We accept PRs for the **public-facing content of this repository**:
 - ✅ Updated screenshots when the app's look has changed and the old
   shots are stale (please match the same scene / page as the existing
   shot you're replacing)
+- ✅ **Webcards** — code PRs that add or improve a dashboard card in
+  [`webcards/`](webcards/). This is the one open-source (MIT) corner of
+  the repo that *does* accept source code. See
+  [`webcards/README.md`](webcards/README.md) for the card interface and
+  how to build one; the first published card is the **Card Geode**.
 
 We do **not** accept:
 
-- ❌ App source code — the source isn't here. Feature ideas go through
-  Issues, where they're triaged and implemented privately.
+- ❌ App source code **outside `webcards/`** — the rest of the source
+  isn't here. Feature ideas go through Issues, triaged + implemented
+  privately.
 - ❌ Branding, logo, or trademark changes
 - ❌ License changes
 - ❌ Anything that conflicts with the project's commercial direction

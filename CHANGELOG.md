@@ -14,6 +14,26 @@ _Things in flight but not yet live. Empty here means everything's deployed._
 
 ---
 
+## 2026-06-09 — Card Geode + open-source webcards
+
+### Added
+- 💎 **Card Geode** — a new art card. Your collection cracked open like a
+  geode: in 3D, real quartz crystals grow inward from the rock cavity wall
+  with a card mapped onto each crystal face; drag to orbit, scroll to zoom,
+  click a crystal to view that card. Also a 2D agate-slice view. Gear:
+  view, how many cards (top 10–250), crystal tint, glow, sparkle, spin.
+- 🃏 **Open-source webcards** — the new [`webcards/`](webcards/) directory is
+  MIT-licensed so the community can read, improve, and propose dashboard
+  cards. The Card Geode is the first one published there. Code PRs welcome
+  (see [`webcards/README.md`](webcards/README.md)).
+
+### Fixed
+- Sealed product photos now show with a transparent background everywhere
+  (no more white box behind booster boxes).
+- Site favicon (the gold "G") now displays in browser tabs/bookmarks.
+
+---
+
 ## 2026-05-23 — Museum positioning + new art cards
 
 ### Added
