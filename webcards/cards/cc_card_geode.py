@@ -586,11 +586,12 @@ if (root && !root.__geo3dBound) {
       for(let i=0;i<p.count;i++){ vv.fromBufferAttribute(p,i); nn.copy(vv).normalize();
         vv.addScaledVector(nn,0.26*noise3(vv.x*0.9,vv.y*0.9,vv.z*0.9)); p.setXYZ(i,vv.x,vv.y,vv.z);} rrimGeo.computeVertexNormals(); }
     const rrim=new THREE.Mesh(rrimGeo,new THREE.MeshStandardMaterial(
-        {color:0x4b3c29,roughness:1,metalness:0,flatShading:true}));
+        {color:0xc3bdb0,roughness:1,metalness:0,flatShading:true}));   // pale grey/white rind
     rrim.position.z=-0.25; group.add(rrim);
-    // thin agate band glinting just inside the rock
+    // thin white chalcedony band just inside the rock (the pale ring real
+    // store geodes have between the grey rind and the crystals)
     const aband=new THREE.Mesh(new THREE.TorusGeometry(1.62,0.1,12,72),
-        new THREE.MeshStandardMaterial({color:0xcaa46a,roughness:0.5,metalness:0.35,envMapIntensity:1.2}));
+        new THREE.MeshStandardMaterial({color:0xe8e3d6,roughness:0.55,metalness:0.1,envMapIntensity:1.0}));
     aband.position.z=-0.05; group.add(aband);
 
     scene.add(new THREE.AmbientLight(0xffffff,0.55));
