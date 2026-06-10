@@ -34,6 +34,23 @@ sparkle · spin.
 
 ---
 
+## More cards from the museum
+
+The app has 30+ webcards. A couple more, to show the range of what's possible
+(both have their source published here too, for reference):
+
+| 🧠 Cortex | 🎴 Card-of-Cards Mosaic |
+|:---:|:---:|
+| ![Cortex — collection art flowing across a 3D brain](images/cortex.png) | ![Card-of-Cards Mosaic — a card silhouette built from your cards](images/mosaic.png) |
+| Your cards' art drifts across a real anatomical brain (ICBM-152 cortex). [`cards/cc_cortex.py`](cards/cc_cortex.py) | A giant card silhouette woven from hundreds of tiny card-art tiles. [`cards/cc_card_of_cards.py`](cards/cc_card_of_cards.py) |
+
+> **Note:** the **Card Geode** is the self-contained, easiest one to start
+> from. Cortex and the Mosaic are published for reference/learning — they lean
+> on app internals (the bulk Scryfall index, the image proxy, a bundled brain
+> mesh) so they won't run standalone, but they're great pattern examples.
+
+---
+
 ## What a webcard is
 
 A webcard is a single Python module that returns a self-contained chunk of
