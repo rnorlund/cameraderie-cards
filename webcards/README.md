@@ -17,6 +17,23 @@ The first card published here is the **Card Geode**
 
 ---
 
+## The Card Geode
+
+Your collection cracked open like a geode. In 3D, real quartz crystals grow
+inward from the rock cavity wall with one of your cards mapped onto each
+crystal face — drag to orbit, scroll to zoom, **click a crystal to view that
+card**. There's also a flat 2D "agate slice."
+
+| 3D crystal geode | Click a crystal → that card | 2D agate slice |
+|:---:|:---:|:---:|
+| ![Card Geode in 3D](images/geode-3d.png) | ![Click a crystal to view the card](images/geode-click.png) | ![2D agate-slice view](images/geode-2d.png) |
+
+Source: [`cards/cc_card_geode.py`](cards/cc_card_geode.py). Gear settings (all
+applied live): view · how many cards (top 10–250) · crystal tint · glow ·
+sparkle · spin.
+
+---
+
 ## What a webcard is
 
 A webcard is a single Python module that returns a self-contained chunk of

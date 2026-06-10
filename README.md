@@ -54,6 +54,14 @@ is proprietary and lives in a private repository.
   [Card Geode](webcards/cards/cc_card_geode.py), remix it, or propose a new
   card via PR. See [`webcards/README.md`](webcards/README.md).
 
+<p align="center">
+  <a href="webcards/">
+    <img src="webcards/images/geode-3d.png" alt="Card Geode — a fan-editable webcard" width="320">
+  </a>
+  <br><em>💎 The Card Geode — your collection as a crystal geode. The first
+  open-source <a href="webcards/">webcard</a>; build your own.</em>
+</p>
+
 We read every issue. The app evolves week-by-week and a lot of the
 roadmap comes straight from this tab.
 
