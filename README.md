@@ -1,6 +1,6 @@
-# 🎴 Cameraderie Cards™
+# 🎴 Cameraderie Cards™ — an MTG collection dashboard
 
-**Your Magic: The Gathering collection — treated like a portfolio.**
+**Your MTG (Magic: The Gathering) collection — treated like a portfolio.**
 
 Daily prices. Interactive dashboards. The same analytics treatment a
 financial portfolio gets, but for cardboard.
